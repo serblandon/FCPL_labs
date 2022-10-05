@@ -1,0 +1,7 @@
+D:\FCPL\HW2\LAB2\LAB2\bin\Debug\LAB2.exe.config
+D:\FCPL\HW2\LAB2\LAB2\bin\Debug\LAB2.exe
+D:\FCPL\HW2\LAB2\LAB2\bin\Debug\LAB2.pdb
+D:\FCPL\HW2\LAB2\LAB2\obj\Debug\LAB2.csprojAssemblyReference.cache
+D:\FCPL\HW2\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+D:\FCPL\HW2\LAB2\LAB2\obj\Debug\LAB2.exe
+D:\FCPL\HW2\LAB2\LAB2\obj\Debug\LAB2.pdb

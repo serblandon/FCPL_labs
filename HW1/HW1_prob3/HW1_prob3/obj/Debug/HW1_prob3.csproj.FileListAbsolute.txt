@@ -1,0 +1,7 @@
+D:\FCPL\HW1\HW1_prob3\HW1_prob3\bin\Debug\HW1_prob3.exe.config
+D:\FCPL\HW1\HW1_prob3\HW1_prob3\bin\Debug\HW1_prob3.exe
+D:\FCPL\HW1\HW1_prob3\HW1_prob3\bin\Debug\HW1_prob3.pdb
+D:\FCPL\HW1\HW1_prob3\HW1_prob3\obj\Debug\HW1_prob3.csprojAssemblyReference.cache
+D:\FCPL\HW1\HW1_prob3\HW1_prob3\obj\Debug\HW1_prob3.csproj.CoreCompileInputs.cache
+D:\FCPL\HW1\HW1_prob3\HW1_prob3\obj\Debug\HW1_prob3.exe
+D:\FCPL\HW1\HW1_prob3\HW1_prob3\obj\Debug\HW1_prob3.pdb

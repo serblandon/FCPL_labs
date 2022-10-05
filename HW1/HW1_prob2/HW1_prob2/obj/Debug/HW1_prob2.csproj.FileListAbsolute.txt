@@ -1,0 +1,7 @@
+D:\FCPL\HW1\HW1_prob2\HW1_prob2\obj\Debug\HW1_prob2.csproj.CoreCompileInputs.cache
+D:\FCPL\HW1\HW1_prob2\HW1_prob2\bin\Debug\HW1_prob2.exe.config
+D:\FCPL\HW1\HW1_prob2\HW1_prob2\bin\Debug\HW1_prob2.exe
+D:\FCPL\HW1\HW1_prob2\HW1_prob2\bin\Debug\HW1_prob2.pdb
+D:\FCPL\HW1\HW1_prob2\HW1_prob2\obj\Debug\HW1_prob2.exe
+D:\FCPL\HW1\HW1_prob2\HW1_prob2\obj\Debug\HW1_prob2.pdb
+D:\FCPL\HW1\HW1_prob2\HW1_prob2\obj\Debug\HW1_prob2.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\FCPL\HW1\HW1\bin\Debug\HW1.exe.config
+D:\FCPL\HW1\HW1\bin\Debug\HW1.exe
+D:\FCPL\HW1\HW1\bin\Debug\HW1.pdb
+D:\FCPL\HW1\HW1\obj\Debug\HW1.csprojAssemblyReference.cache
+D:\FCPL\HW1\HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
+D:\FCPL\HW1\HW1\obj\Debug\HW1.exe
+D:\FCPL\HW1\HW1\obj\Debug\HW1.pdb
